@@ -8,8 +8,14 @@ This project is for practicing all the HTML knowledge I've acquired and it's abo
 My HTML skills after completing this project:
 
 *File management
+
+
 *Confident with links and images in an HTML document
+
+
 *Confident with HTML boilerplates
+
+
 *Confident writing HTML files in general and linking them together
 
 
