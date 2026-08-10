@@ -12,6 +12,7 @@ body {
     /*color of each title is set via inline css*/
     margin: 0px;
     margin-bottom: 50px;
+    margin-left: -20px;
 }
 
 .main.title {
@@ -47,6 +48,7 @@ body {
     margin: 100px;    
     font-family: sans-serif;
     font-size: 40px;
+    margin-left: 120px;
 
 }
 
@@ -66,6 +68,9 @@ ul li {
     margin-top: 10px;
 }
 
+ol {
+    margin-right: 25px;
+}
 ol li {
     text-align: center;
     list-style-position: inside;
