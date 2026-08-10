@@ -3,6 +3,10 @@ body {
     padding: 0px;
 }
 
+body.main-body {
+    background-color: rgb(255, 251, 201);
+}
+
 .main-title {
     text-align: center;
     font-family: sans-serif;
@@ -14,6 +18,11 @@ body {
 .main-list li {
     list-style: none;
     text-align: center;
+    font-family: sans-serif;
     font-size: 30px;
-    margin: 20px;
+    margin: 50px;
+}
+
+.main-link {
+    color: rgb(248, 165, 10);
 }
